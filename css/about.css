@@ -173,6 +173,10 @@
     }
     .our-prices-container {
         margin-top: 5px;
+
+    }
+    .our-prices-container section{
+        margin: 10px;
     }
 
     footer{
