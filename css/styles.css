@@ -18,6 +18,10 @@ header{
     border-bottom: 0.1px solid #024059;
 
 }
+.logo-sub-title{
+    color: 'white';
+    font-size: 12px;
+}
 
 header h2{
     color: var(--pc-1pg);
